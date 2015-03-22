@@ -1,0 +1,22 @@
+{
+  "name": "sterling",
+  "version": "0.0.1",
+  "homepage": "https://github.com/viktorminator/sterling",
+  "authors": [
+    "Viktor Matushevskyi <viktorminator@gmail.com>"
+  ],
+  "description": "Серебрянные украшения Стерлинг",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.2.0",
+    "normalize.css": "~3.0.2",
+    "css-recipe-clearfix": "~0.1.0"
+  }
+}

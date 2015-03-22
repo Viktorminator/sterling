@@ -1,0 +1,17 @@
+{
+  "generator-ayen": {
+    "appName": "Sterling9",
+    "authorName": "Viktor Matushevskyi",
+    "authorMail": "viktorminator@gmail.com",
+    "githubName": "viktorminator",
+    "packageName": "sterling",
+    "stagingURL": "n",
+    "description": "Серебрянные украшения Стерлинг",
+    "keywords": "серебрянные украшения, серебро, Стерлинг",
+    "cssPrecompiler": "stylus",
+    "compilerFeatures": [
+      "templates"
+    ],
+    "templateType": "bare"
+  }
+}
